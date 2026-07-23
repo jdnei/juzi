@@ -1,4 +1,4 @@
-# juzicloud桔子云机场官方地址（2026年07月01日更新）
+# juzicloud桔子云机场官方地址(2026年07月01日更新)
 juzicloud桔子云机场官网地址</br>
 最新地址：[juzi82.xyz](https://juzi82.xyz/auth/register?code=GgqU)</br>
 官方地址：[juzi52.xyz](https://juzi52.xyz/auth/register?code=GgqU)</br>
