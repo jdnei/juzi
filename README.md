@@ -3,8 +3,12 @@
 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
 # JuziCloud 桔子云机场官方地址(2026年7月9日更新)
-最新地址：[juzi82.xyz](https://juzi82.xyz/auth/register?code=GgqU)</br>
-官方地址：[juzi52.xyz](https://juzi52.xyz/auth/register?code=GgqU)</br>
+JuziCloud 桔子云机场官网地址</br>
+最新地址01：[juzi52.xyz](https://juzi52.xyz/auth/register?code=GgqU)</br>
+最新地址02：[juzi52.net](https://juzi52.net/auth/register?code=GgqU)</br>
+官网地址01：[jz5557.com](https://jz5557.com/auth/register?code=GgqU)</br>
+官网地址02：[juzi818.com](https://juzi818.com/auth/register?code=GgqU)</br>
+
 ## 邀请码
 ```bash
 GgqU
