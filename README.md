@@ -9,9 +9,15 @@ JuziCloud 桔子云机场官网地址</br>
 官网地址01：[jz5557.com](https://jz5557.com/auth/register?code=GgqU)</br>
 官网地址02：[juzi818.com](https://juzi818.com/auth/register?code=GgqU)</br>
 
+请发送任意内容邮件到：juzi62688@gmail.com 获取最新的网站地址，请直接发送一次，后期有需要的时候，查找邮件即可。
 ## 邀请码
 ```bash
 GgqU
+```
+## 优惠码/折扣码
+`年费7折优惠代码，结束时间7月31日`
+```bash
+JJ1234
 ```
 ## 简介
 桔子云机场是一家老牌 SSR/V2Ray 加速服务商，提供香港、日本、新加坡、美国等常用节点，支持主流客户端订阅，适合日常上网、流媒体和轻量跨境访问使用。
