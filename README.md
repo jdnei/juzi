@@ -2,7 +2,7 @@
 🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# JuziCloud 桔子云机场官方地址(2026年8月31日更新)
+# JuziCloud 桔子云机场官方地址(2026年9月1日更新)
 JuziCloud 桔子云机场官网地址</br>
 最新地址01：[juzi52.xyz](https://juzi52.xyz/auth/register?code=GgqU)</br>
 最新地址02：[juzi52.net](https://juzi52.net/auth/register?code=GgqU)</br>
