@@ -4,10 +4,10 @@
 
 # JuziCloud 桔子云机场官方地址(2026年11月2日更新)
 JuziCloud 桔子云机场官网地址</br>
-最新地址01：[juzi52.xyz](https://juzi52.xyz/auth/register?code=GgqU)</br>
-最新地址02：[juzi52.net](https://juzi52.net/auth/register?code=GgqU)</br>
-官网地址01：[jz5557.com](https://jz5557.com/auth/register?code=GgqU)</br>
-官网地址02：[juzi818.com](https://juzi818.com/auth/register?code=GgqU)</br>
+最新地址01：[juzi52.xyz](https://to.iix.im/jz04)</br>
+最新地址02：[juzi52.net](https://to.iix.im/jz03)</br>
+官网地址01：[jz5557.com](https://to.iix.im/jz02)</br>
+官网地址02：[juzi818.com](https://to.iix.im/jz01)</br>
 
 请发送任意内容邮件到：juzi62688@gmail.com 获取最新的网站地址，请直接发送一次，后期有需要的时候，查找邮件即可。
 ## 邀请码
