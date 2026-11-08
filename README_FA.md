@@ -1,5 +1,5 @@
  🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 فارسی
-# وب‌سایت رسمی فیلترشکن JuziCloud (به‌روزرسانی 7 نوامبر 2026)
+# وب‌سایت رسمی فیلترشکن JuziCloud (به‌روزرسانی 8 نوامبر 2026)
 وب‌سایت رسمی فیلترشکن JuziCloud<br>
 جدیدترین آدرس ۰۱: [juzi52.xyz](https://to.iix.im/jz04)<br>
 جدیدترین آدرس ۰۲: [juzi52.net](https://to.iix.im/jz03)<br>
