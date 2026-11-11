@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 English | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# JuziCloud VPN Official Website (Updated November 10, 2026)
+# JuziCloud VPN Official Website (Updated November 11, 2026)
 
 JuziCloud VPN Official Website<br>
 Latest Address 01: [juzi52.xyz](https://to.iix.im/jz04)<br>
